@@ -1,4 +1,5 @@
 version: 0.0.1
 folder_path: cores/exceptions_core
 type: core
+repo_url: https://github.com/AI-Driven-Highspeed-Development/exceptions_core.git
 requirements: []
