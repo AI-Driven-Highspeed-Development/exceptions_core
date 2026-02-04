@@ -9,7 +9,6 @@ dependencies = []
 Repository = "https://github.com/AI-Driven-Highspeed-Development/exceptions_core.git"
 
 [tool.adhd]
-type = "core"
 layer = "foundation"
 
 [build-system]
