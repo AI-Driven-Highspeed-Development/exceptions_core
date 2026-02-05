@@ -1,5 +1,5 @@
 ---
-applyTo: "project/**,managers/**,plugins/**,utils/**,mcps/**,cores/**,**.py"
+applyTo: "modules/**,project/**,**.py"
 ---
 # ADHD Framework Exception Handling Policy
 
